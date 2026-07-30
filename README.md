@@ -75,17 +75,12 @@ React • Node.js • Express • MySQL
 
 ---
 
-## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+---## 🌐 Connect With Me
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+💼 LinkedIn: https://linkedin.com/in/ayush-singh-008b9a3a1
 
----
+📧 Email: ayush.singh121510@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=ayushsingh9889&color=blue)
 
