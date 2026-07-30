@@ -46,21 +46,30 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Code Reviewer
-AI-powered JavaScript code review application built using React.
 
-🔗 Live Demo: https://ai-code-reviewer-ten-rho.vercel.app
+An AI-powered JavaScript code review application that analyzes code quality and provides intelligent suggestions to improve readability, performance, and best practices.
 
-🔗 Repository:
+**Tech Stack:** React • Node.js • Express • AI API • JavaScript
+
+🔗 **Live Demo:**  
+https://ai-code-reviewer-ten-rho.vercel.app
+
+📂 **GitHub Repository:**  
 https://github.com/ayushsingh9889/ai-code-reviewer
 
 ---
 
 ### 📦 SmartERP
 
-Cloud-based Billing, Inventory & Accounting Management System inspired by Tally.
+A cloud-based ERP system inspired by Tally for managing billing, inventory, customers, suppliers, and accounting. Designed to simplify business operations with a modern web interface.
 
-React • Node.js • Express • MySQL
+**Tech Stack:** React • Node.js • Express • MySQL
 
+🔗 **Live Demo:**  
+https://smarterp-frontend-t096.onrender.com/
+
+📂 **GitHub Repository:**  
+https://github.com/ayushsingh9889/smarterp
 ---
 
 ## 📈 Contribution Graph
