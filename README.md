@@ -196,11 +196,7 @@ Java practice repository where I learn and practice Java from beginner to advanc
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushsingh9889/ayushsingh9889/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 > ⚠️ The snake requires a GitHub Actions workflow. Setup instructions are given below.
 
