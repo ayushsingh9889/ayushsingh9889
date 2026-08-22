@@ -14,9 +14,9 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Tech CSE (Cloud Computing) Student**  
+🎓 **B.Tech CSE Student**  
 ☁️ **Aspiring Cloud & DevOps Engineer**  
 💻 **Full Stack Web Developer**  
 🤖 Interested in **AI & Automation**  
@@ -25,47 +25,74 @@
 
 <br>
 
-- 🌱 Currently learning **AWS, DevOps & MERN Stack**
+- 🌱 Currently learning **AWS, DevOps, Docker, Linux & MERN Stack**
 - 🤖 Built an **AI Code Reviewer**
+- 📝 Built a **Quiz Management Platform**
 - 📦 Working on **SmartERP – Billing & Inventory System**
-- 🧠 Practicing **DSA & problem solving**
-- 💬 Ask me about **JavaScript, React, Node.js, AWS**
+- 🧠 Practicing **DSA & Problem Solving**
+- 💬 Ask me about **JavaScript, React, Node.js, AWS and Git**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,docker,linux" />
 </p>
 
-### 🗄️ Database & Tools
+## 🗄️ Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,vscode" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+## 🧠 Quiz Management Platform
+
+A full-stack Quiz Management Platform that allows administrators to create and manage quizzes, categories, and questions, while students can attempt quizzes and view their results.
+
+### Features
+
+- 🔐 User Authentication and Authorization
+- 👨‍💼 Admin Dashboard
+- 📝 Create and Manage Quizzes
+- ❓ Add and Manage Questions
+- 📂 Quiz Categories
+- 🎓 Student Dashboard
+- ⏱️ Attempt Quizzes
+- 📊 View Quiz Results
+- 🏆 Leaderboard
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • JWT
+
+<p>
+  <a href="https://github.com/ayushsingh9889/quiz-platform" target="_blank">
+    <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ## 🤖 AI Code Reviewer
 
-An AI-powered JavaScript code review application that analyzes code quality and provides intelligent suggestions for readability, performance and best practices.
+An AI-powered JavaScript code review application that analyzes code quality and provides intelligent suggestions for readability, performance, and best practices.
 
 **Tech Stack:** React • Node.js • Express • JavaScript • AI API
 
@@ -83,7 +110,7 @@ An AI-powered JavaScript code review application that analyzes code quality and 
 
 ## 📦 SmartERP
 
-A cloud-based ERP system inspired by Tally for managing:
+A cloud-based ERP system for managing:
 
 - Billing
 - Inventory
@@ -109,7 +136,7 @@ A cloud-based ERP system inspired by Tally for managing:
 
 A web-based Insurance Management System designed to manage insurance policies, customers, and related operations through a centralized platform.
 
-**Tech Stack:** JavaScript • Node.js • Express.js • React • Database
+**Tech Stack:** React • Node.js • Express.js • Database
 
 <p>
   <a href="https://github.com/ayushsingh9889/insurance-management-platform" target="_blank">
@@ -117,18 +144,20 @@ A web-based Insurance Management System designed to manage insurance policies, c
   </a>
 </p>
 
-## 🌟 Other Projects
+---
+
+# 🌟 Other Projects
 
 ### 🧮 Counter App
 
-Interactive Counter Application built using HTML, CSS and JavaScript.
+Interactive Counter Application built using HTML, CSS, and JavaScript.
 
-Features include:
+**Features:**
 
 - Increment
 - Decrement
 - Reset
-- Manual editing
+- Manual Editing
 - Local Storage
 - Responsive UI
 
@@ -138,21 +167,15 @@ Features include:
   </a>
 </p>
 
----
-
 ### 🧠 DSA Practice
 
-Java-based data structure and algorithm practice repository.
-
-Currently includes implementations and practice around **Stack and DSA concepts**.
+Java-based Data Structures and Algorithms practice repository.
 
 <p>
   <a href="https://github.com/ayushsingh9889/DSA">
     <img src="https://img.shields.io/badge/📚%20DSA%20Repository-GitHub-blue?style=for-the-badge&logo=github" />
   </a>
 </p>
-
----
 
 ### 📚 JavaScript Learning
 
@@ -164,11 +187,9 @@ JavaScript learning and practice repository containing concepts and code example
   </a>
 </p>
 
----
-
 ### ☕ Java Learning
 
-Java practice repository where I learn and practice Java from beginner to advanced concepts.
+Java practice repository covering concepts from beginner to advanced levels.
 
 <p>
   <a href="https://github.com/ayushsingh9889/java-">
@@ -178,31 +199,7 @@ Java practice repository where I learn and practice Java from beginner to advanc
 
 ---
 
-
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsingh9889&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsingh9889&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-
-
-> ⚠️ The snake requires a GitHub Actions workflow. Setup instructions are given below.
-
----
-
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 ```text
 ☁️ AWS
