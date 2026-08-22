@@ -272,22 +272,20 @@ Java practice repository covering programming concepts and problem solving.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/ayush-singh-008b9a3a1">
+<a href="mailto:ayush.singh121510@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-singh-008b9a3a1">
 <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Singh-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/ayush.singh9889">
+<img src="https://img.shields.io/badge/Instagram-@ayush.singh9889-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ayushsingh9889">
 <img src="https://img.shields.io/badge/GitHub-ayushsingh9889-black?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-  <b>🚀 Learning • Building • Deploying • Improving</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>
